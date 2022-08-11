@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AZeusnmor
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science with python
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi, I’m Nwangene Sobe-Olisa Andrew
+- 👀 I’m interested in data Analytics
+- 🌱 I’m currently learning data analytics with python
+- 💞️ I’m looking to collaborate on data analyst projects
 - 📫 How to reach me olisangene@gmail.com
 
 <!---
